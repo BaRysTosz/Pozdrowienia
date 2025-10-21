@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("lick my ass nigga");
+            Console.WriteLine("wanna fuck?");
         }
     }
 }
