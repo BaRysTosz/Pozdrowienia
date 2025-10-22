@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("osoba1");
+            Console.WriteLine("zalogowałeś się");
         }
     }
 }
